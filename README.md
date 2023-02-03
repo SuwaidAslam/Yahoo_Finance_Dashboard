@@ -45,4 +45,4 @@ $ pip install -r requirements.txt
 
 ## Contact
 
-For any feedback or queries, please reach out to me at [suwaidaslam@gmail.com](suwaidaslam@gmail.com) or My Linkedin @suwaidaslam.
+For any feedback or queries, you can reach out to me at [suwaidaslam@gmail.com](suwaidaslam@gmail.com) or My Linkedin @suwaidaslam.
